@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bada9te&theme=swift)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bada9te&theme=swift&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bada9te&theme=swift&layout=compact&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bada9te&theme=swift&show_icons=true&count_private=true) 
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bada9te&theme=swift&layout=compact&count_private=true)
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,graphql,linux)

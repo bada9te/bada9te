@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 ### 💻 Tech Stack :
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,graphql,linux)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,mongodb,graphql,linux,python,cpp,mysql)

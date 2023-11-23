@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🚀 GitHub Stats :
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bada9te&theme=swift)
-![](github-readme-stats-flax-rho.vercel.app/api/top-langs/?username=bada9te&theme=swiftl&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-flax-rho.vercel.app/api/top-langs/?username=bada9te&theme=swiftl&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 💻 Tech Stack :

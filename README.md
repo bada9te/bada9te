@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a beginner JavaScript developer, currently exploring the "world" of NodeJS and ReactJS 
+I am a JavaScript developer, currently exploring the "world" of NodeJS and ReactJS 
 <!--
 **bada9te/bada9te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

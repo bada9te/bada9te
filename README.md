@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### 🚀 GitHub Stats :
 ![GitHub stats](https://github-readme-stats-flax-rho.vercel.app/api?username=bada9te&show_icons=true&theme=dracula)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=bada9te&theme=dracula)<br/>
 ![Top Langs](https://github-readme-stats-flax-rho.vercel.app/api/top-langs/?username=bada9te&theme=dracula&include_all_commits=true&count_private=true&langs_count=10&layout=compact)
 
 

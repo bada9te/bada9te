@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a JavaScript developer, currently exploring the "world" of NodeJS and ReactJS 
+My name is Bohdan, I am a fullstack JavaScript / TypeScript developer, ready to contribute to your projects! 
 <!--
 **bada9te/bada9te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

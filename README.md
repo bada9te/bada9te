@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 GitHub Stats :
-![GitHub stats](https://github-readme-stats-flax-rho.vercel.app/api?username=bada9te&show_icons=true&theme=dracula)<br/>
-![Top Langs](https://github-readme-stats-flax-rho.vercel.app/api/top-langs/?username=bada9te&theme=dracula&include_all_commits=true&count_private=true&langs_count=10&layout=compact)
+![GitHub stats](https://github-readme-stats-flax-rho.vercel.app/api?username=bada9te&show_icons=true&theme=dark)<br/>
+![Top Langs](https://github-readme-stats-flax-rho.vercel.app/api/top-langs/?username=bada9te&theme=dark&include_all_commits=true&count_private=true&langs_count=10&layout=compact)
 
 
 ### 💻 Tech Stack :
